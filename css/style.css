@@ -577,6 +577,9 @@ body {
     padding-right: 5%;
     line-height: 33px;
   }
+   .paddings {
+    padding-top: 0px;
+  }
 }
 
 /* Бургер-меню */
