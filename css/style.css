@@ -395,6 +395,9 @@ body {
   border-radius: 32px;
 }
 
+.padding {
+  padding-bottom: 40px;
+}
 .button_text {
   font-family: "Fira Sans";
   font-style: normal;
