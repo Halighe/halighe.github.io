@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(../img/Desktop_original.png);
+  background-image: url(../img/desktop.webp);
   background-size: cover;
 }
 
@@ -963,7 +963,7 @@ body {
   }
 
   body {
-    background-image: url(../img/tablet_original.png);
+    background-image: url(../img/tablet.webp);
     background-size: cover;
   }
 }
@@ -1110,7 +1110,7 @@ body {
   }
 
   body {
-    background-image: url(../img/Phone_original.png);
+    background-image: url(../img/phone.webp);
     background-size: cover;
   }
 }
