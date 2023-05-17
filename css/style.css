@@ -1042,6 +1042,11 @@ body {
     margin-right: 40px;
   }
 }
+  
+  @media (max-width: 640px) {
+ .slogan_foto_robot {
+    height: 275px;
+  }
 
 @media (max-width: 640px) {
   .slogan_text {
