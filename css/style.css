@@ -297,6 +297,7 @@ body {
 .programm_slider {
   background-image: url("../img/illustrations_desktop.svg");
   background-repeat: no-repeat;
+  background-size: 100% auto;
   padding-top: 160px;
   max-width: 1153px;
   margin-left: auto;
