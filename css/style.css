@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(../img/desktop.png);
+  background-image: url(../img/Desktop_original.png);
   background-size: cover;
 }
 
@@ -1103,7 +1103,7 @@ body {
   }
 
   body {
-    background-image: url(../img/phone_360.png);
+    background-image: url(../img/Phone_original.png);
     background-size: cover;
   }
 }
