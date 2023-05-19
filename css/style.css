@@ -70,7 +70,7 @@ body {
 }
 
 .header_img_container {
-  margin-right: 124px;
+  margin-right: 110px;
   margin-left: 77px;
 }
 
@@ -82,6 +82,7 @@ body {
 
 .header {
   display: flex;
+  justify-content: space-around;
   align-items: center;
   margin-top: 10px;
 }
@@ -842,7 +843,7 @@ body {
   }
 
   .header_img_container {
-    margin-left: 35px;
+    margin-left: 34px;
   }
 }
 
