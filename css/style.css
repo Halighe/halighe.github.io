@@ -484,7 +484,7 @@ body {
   font-family: "Fira Sans";
   font-style: normal;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 120%;
   text-decoration: none;
   cursor: pointer;
@@ -725,7 +725,7 @@ body {
 
   .header_menu {
     position: fixed;
-    top: -110%;
+    transform: translateY(-120%);
     left: 0;
     width: 100%;
     height: 100%;
@@ -738,6 +738,7 @@ body {
 
   .header_menu.active {
     top: 0;
+    transform: none;
   }
 
   .header_list {
